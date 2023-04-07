@@ -1,7 +1,9 @@
-package com.yedam.test0407;
+package com.yedam.common;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.yedam.test0407.CafeDTO;
 
 public class CafeDAO extends DAO{
 	

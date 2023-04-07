@@ -1,4 +1,4 @@
-package com.yedam.test0407;
+package com.yedam.common;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

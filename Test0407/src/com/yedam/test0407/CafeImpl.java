@@ -3,6 +3,8 @@ package com.yedam.test0407;
 import java.util.List;
 import java.util.Scanner;
 
+import com.yedam.common.CafeDAO;
+
 public class CafeImpl {
 
 	Scanner sc = new Scanner(System.in);

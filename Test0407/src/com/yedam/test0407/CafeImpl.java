@@ -97,7 +97,7 @@ public class CafeImpl {
 			System.out.println();
 			sum += (list.get(i).getCoffeePrice())*(list.get(i).getCoffeeSales());		
 			}
-		System.out.println("총 매출액 :" + sum);
+		System.out.println("총 매출액 :" + sum + "원");
 	}
 	
 	
